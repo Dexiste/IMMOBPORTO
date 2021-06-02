@@ -43,15 +43,15 @@
           @if(Route::has('login'))
             
             @auth
-              <a href="{{ route('dashboard') }}" class="text-sm text-gray-700 underline">Dashboard</a>
+              <a href="{{ route('dashboard') }}" class="">Tableau de Bord</a>
           @else
-              <a href="{{ route('login') }}" class="nav-link "  class="text-sm text-gray-700 underline">Se Connecter</a>
+              <a href="{{ route('login') }}" class="nav-link">Se Connecter</a>
 
               @if (Route::has('register'))
-                  <a href="{{ route('register') }}" class="ml-4 text-sm text-gray-700 underline"></a>
+              <a href="{{ route('register') }}" class="nav-link">S'inscrire</a>
               @endif
             @endauth
-                </div>
+    
           @endif
 
           

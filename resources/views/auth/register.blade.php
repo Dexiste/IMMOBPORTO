@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+@include('include.head')   
+</head>
+<body>
+@include('include.header')
+
 <x-guest-layout>
     <x-jet-authentication-card>
         <x-slot name="logo">

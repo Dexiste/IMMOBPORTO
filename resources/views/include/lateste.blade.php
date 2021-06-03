@@ -5,10 +5,10 @@
           <div class="col-md-12">
             <div class="title-wrap d-flex justify-content-between">
               <div class="title-box">
-                <h2 class="title-a">Latest News</h2>
+                <h2 class="title-a">Publication recente</h2>
               </div>
               <div class="title-link">
-                <a href="blog-grid.html">All News
+                <a href="blog-grid.html">
                   <span class="bi bi-chevron-right"></span>
                 </a>
               </div>
@@ -27,16 +27,16 @@
                 <div class="card-overlay">
                   <div class="card-header-b">
                     <div class="card-category-b">
-                      <a href="#" class="category-b">House</a>
+                      <a href="#" class="category-b">Maison</a>
                     </div>
                     <div class="card-title-b">
                       <h2 class="title-2">
-                        <a href="blog-single.html">House is comming
-                          <br> new</a>
+                        <a href="blog-single.html">Maison, bientôt à vous
+                          <br> </a>
                       </h2>
                     </div>
                     <div class="card-date">
-                      <span class="date-b">18 Sep. 2017</span>
+                      <span class="date-b">20 Mai 2021</span>
                     </div>
                   </div>
                 </div>
@@ -51,16 +51,16 @@
                 <div class="card-overlay">
                   <div class="card-header-b">
                     <div class="card-category-b">
-                      <a href="#" class="category-b">Travel</a>
+                      <a href="#" class="category-b">Maison</a>
                     </div>
                     <div class="card-title-b">
                       <h2 class="title-2">
-                        <a href="blog-single.html">Travel is comming
+                        <a href="blog-single.html">Maison, bientôt à vous
                           <br> new</a>
                       </h2>
                     </div>
                     <div class="card-date">
-                      <span class="date-b">18 Sep. 2017</span>
+                      <span class="date-b">20 Mai 2021</span>
                     </div>
                   </div>
                 </div>
@@ -75,16 +75,16 @@
                 <div class="card-overlay">
                   <div class="card-header-b">
                     <div class="card-category-b">
-                      <a href="#" class="category-b">Park</a>
+                      <a href="#" class="category-b">Maison</a>
                     </div>
                     <div class="card-title-b">
                       <h2 class="title-2">
-                        <a href="blog-single.html">Park is comming
+                        <a href="blog-single.html">Maison, bientôt à vous
                           <br> new</a>
                       </h2>
                     </div>
                     <div class="card-date">
-                      <span class="date-b">18 Sep. 2017</span>
+                      <span class="date-b">20 Mai 2021</span>
                     </div>
                   </div>
                 </div>
@@ -99,16 +99,16 @@
                 <div class="card-overlay">
                   <div class="card-header-b">
                     <div class="card-category-b">
-                      <a href="#" class="category-b">Travel</a>
+                      <a href="#" class="category-b">Maison</a>
                     </div>
                     <div class="card-title-b">
                       <h2 class="title-2">
-                        <a href="#">Travel is comming
+                        <a href="#">Maison, bientôt à vous
                           <br> new</a>
                       </h2>
                     </div>
                     <div class="card-date">
-                      <span class="date-b">18 Sep. 2017</span>
+                      <span class="date-b">20 Mai 2021</span>
                     </div>
                   </div>
                 </div>

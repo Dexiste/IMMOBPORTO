@@ -15,18 +15,18 @@
         <div class="row">
           <div class="col-md-12 col-lg-8">
             <div class="title-single-box">
-              <h1 class="title-single">Our Amazing Agents</h1>
-              <span class="color-text-a">Grid Properties</span>
+              <h1 class="title-single">Nos agents</h1>
+              <span class="color-text-a">Tout les agents</span>
             </div>
           </div>
           <div class="col-md-12 col-lg-4">
             <nav aria-label="breadcrumb" class="breadcrumb-box d-flex justify-content-lg-end">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item">
-                  <a href="#">Home</a>
+                  <a href="#">Acceuil</a>
                 </li>
                 <li class="breadcrumb-item active" aria-current="page">
-                  Agents Grid
+                  Grille des agents
                 </li>
               </ol>
             </nav>
@@ -48,21 +48,21 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="#" class="link-two">Margaret Sotillo
+                      <a href="#" class="link-two">Christelle Satoakou
                         <br> Escala</a>
                     </h3>
                   </div>
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                  Chers utilisateur, je suis à votre service.
                   </p>
                   <div class="info-agents color-a">
                     <p>
-                      <strong>Phone: </strong> +54 356 945234
+                      <strong>Tél: </strong> +229 97258634
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
+                      <strong>Email: </strong> christel@gmail.com
                     </p>
                   </div>
                 </div>
@@ -104,21 +104,21 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="#" class="link-two">Margaret Sotillo
+                      <a href="#" class="link-two">Romeo Hetin
                         <br> Escala</a>
                     </h3>
                   </div>
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                  Chers utilisateur, je suis à votre service.
                   </p>
                   <div class="info-agents color-a">
                     <p>
-                      <strong>Phone: </strong> +54 356 945234
+                      <strong>Tél: </strong> +229 97258634
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
+                      <strong>Email: </strong> romeo@gmail.com
                     </p>
                   </div>
                 </div>
@@ -160,21 +160,21 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="#" class="link-two">Margaret Sotillo
+                      <a href="#" class="link-two">ADJAGBODJOU Valdano
                         <br> Escala</a>
                     </h3>
                   </div>
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                  Chers utilisateur, je suis à votre service.
                   </p>
                   <div class="info-agents color-a">
                     <p>
-                      <strong>Phone: </strong> +54 356 945234
+                      <strong>Tél: </strong> +229 97258634
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
+                      <strong>Email: </strong> valdano@gmail.com
                     </p>
                   </div>
                 </div>
@@ -216,21 +216,21 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="#" class="link-two">Margaret Sotillo
+                      <a href="#" class="link-two">Pricilia HOSSOU
                         <br> Escala</a>
                     </h3>
                   </div>
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                  Chers utilisateur, je suis à votre service.
                   </p>
                   <div class="info-agents color-a">
                     <p>
-                      <strong>Phone: </strong> +54 356 945234
+                      <strong>Tél: </strong> +229 97258634
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
+                      <strong>Email: </strong> priscilia@gmail.com
                     </p>
                   </div>
                 </div>
@@ -272,21 +272,21 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="#" class="link-two">Margaret Sotillo
+                      <a href="#" class="link-two">Margaret SONAGON
                         <br> Escala</a>
                     </h3>
                   </div>
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                  Chers utilisateur, je suis à votre service.
                   </p>
                   <div class="info-agents color-a">
                     <p>
-                      <strong>Phone: </strong> +54 356 945234
+                      <strong>Tél: </strong> +229 97258634
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
+                      <strong>Email: </strong> margeret@gmail.com
                     </p>
                   </div>
                 </div>
@@ -328,21 +328,21 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="#" class="link-two">Margaret Sotillo
+                      <a href="#" class="link-two">Ariel DO-SOUZA
                         <br> Escala</a>
                     </h3>
                   </div>
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                  Chers utilisateur, je suis à votre service.
                   </p>
                   <div class="info-agents color-a">
                     <p>
-                      <strong>Phone: </strong> +54 356 945234
+                      <strong>Tél: </strong> +229 97258634
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
+                      <strong>Email: </strong> ariel@gmail.com
                     </p>
                   </div>
                 </div>

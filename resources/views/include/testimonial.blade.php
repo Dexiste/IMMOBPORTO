@@ -28,9 +28,7 @@
                     </div>
                     <div class="testimonials-content">
                       <p class="testimonial-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, cupiditate ea nam praesentium
-                        debitis hic ber quibusdam
-                        voluptatibus officia expedita corpori.
+                        Je suis tellement fier de IMMOBPORTO car grâce à eux, j'ai pu trouver un meilleur emplacement moins chers et propres.
                       </p>
                     </div>
                     <div class="testimonial-author-box">
@@ -56,9 +54,7 @@
                     </div>
                     <div class="testimonials-content">
                       <p class="testimonial-text">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, cupiditate ea nam praesentium
-                        debitis hic ber quibusdam
-                        voluptatibus officia expedita corpori.
+                        Je suis tellement fier de IMMOBPORTO car grâce à eux, j'ai pu trouver un meilleur emplacement moins chers et propres.
                       </p>
                     </div>
                     <div class="testimonial-author-box">

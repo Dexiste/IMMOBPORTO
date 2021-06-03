@@ -16,25 +16,24 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link " href="{{route('about')}}">About</a>
+            <a class="nav-link " href="{{route('about')}}">A propos</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link " href="{{route('property-grid')}}">Property</a>
+            <a class="nav-link " href="{{route('property-grid')}}">Vendre</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link " href="{{route('blog-grid')}}">Blog</a>
+            <a class="nav-link " href="{{route('blog-grid')}}">Louer</a>
           </li>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
-            <div class="dropdown-menu">
-              <a class="dropdown-item " href="{{route('property-single')}}">Property Single</a>
-              <a class="dropdown-item " href="{{route('blog-single')}}">Blog Single</a>
-              <a class="dropdown-item " href="{{route('agent-grid')}}">Agents Grid</a>
-              <a class="dropdown-item " href="{{route('agent-single')}}">Agent Single</a>
-            </div>
+          <li class="nav-item">
+            
+             
+              
+              <a class="nav-link " href="{{route('agent-grid')}}">Agents</a>
+           
+          
           </li>
           <li class="nav-item">
             <a class="nav-link " href="{{route('contact')}}">Contactes</a>

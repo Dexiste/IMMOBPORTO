@@ -15,15 +15,17 @@
         <div class="row">
           <div class="col-md-12 col-lg-8">
             <div class="title-single-box">
-              <h1 class="title-single">Contact US</h1>
-              <span class="color-text-a">Aut voluptas consequatur unde sed omnis ex placeat quis eos. Aut natus officia corrupti qui autem fugit consectetur quo. Et ipsum eveniet laboriosam voluptas beatae possimus qui ducimus. Et voluptatem deleniti. Voluptatum voluptatibus amet. Et esse sed omnis inventore hic culpa.</span>
+              <h1 class="title-single">Contactez-nous</h1>
+              <span class="color-text-a">Une chose est d’avoir des biens immobiliers. L’autre chose, c’est la gestion rationnelle de ces biens immobiliers dans le cas de la mise en vente ou en location. 
+              Pour vous soutenir, rentrer en contact avec nous
+              </span>
             </div>
           </div>
           <div class="col-md-12 col-lg-4">
             <nav aria-label="breadcrumb" class="breadcrumb-box d-flex justify-content-lg-end">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item">
-                  <a href="{{route('acceuil')}}">Home</a>
+                  <a href="{{route('acceuil')}}">Acceuil</a>
                 </li>
                 <li class="breadcrumb-item active" aria-current="page">
                   Contact
@@ -53,17 +55,17 @@
                   <div class="row">
                     <div class="col-md-6 mb-3">
                       <div class="form-group">
-                        <input type="text" name="name" class="form-control form-control-lg form-control-a" placeholder="Your Name" required>
+                        <input type="text" name="name" class="form-control form-control-lg form-control-a" placeholder="Votre nom" required>
                       </div>
                     </div>
                     <div class="col-md-6 mb-3">
                       <div class="form-group">
-                        <input name="email" type="email" class="form-control form-control-lg form-control-a" placeholder="Your Email" required>
+                        <input name="email" type="email" class="form-control form-control-lg form-control-a" placeholder="Votre email" required>
                       </div>
                     </div>
                     <div class="col-md-12 mb-3">
                       <div class="form-group">
-                        <input type="text" name="subject" class="form-control form-control-lg form-control-a" placeholder="Subject" required>
+                        <input type="text" name="subject" class="form-control form-control-lg form-control-a" placeholder="Sujet" required>
                       </div>
                     </div>
                     <div class="col-md-12">
@@ -75,12 +77,12 @@
                       <div class="mb-3">
                         <div class="loading">Loading</div>
                         <div class="error-message"></div>
-                        <div class="sent-message">Your message has been sent. Thank you!</div>
+                        <div class="sent-message">Votre message serait envoyez. Merci beaucoup!</div>
                       </div>
                     </div>
 
                     <div class="col-md-12 text-center">
-                      <button type="submit" class="btn btn-a">Send Message</button>
+                      <button type="submit" class="btn btn-a">Envoyez</button>
                     </div>
                   </div>
                 </form>
@@ -92,7 +94,7 @@
                   </div>
                   <div class="icon-box-content table-cell">
                     <div class="icon-box-title">
-                      <h4 class="icon-title">Say Hello</h4>
+                      <h4 class="icon-title">Nous saluer</h4>
                     </div>
                     <div class="icon-box-content">
                       <p class="mb-1">Email.
@@ -110,7 +112,7 @@
                   </div>
                   <div class="icon-box-content table-cell">
                     <div class="icon-box-title">
-                      <h4 class="icon-title">Find us in</h4>
+                      <h4 class="icon-title">Retrouver un lieu</h4>
                     </div>
                     <div class="icon-box-content">
                       <p class="mb-1">

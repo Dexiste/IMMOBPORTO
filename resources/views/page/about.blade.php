@@ -12,17 +12,17 @@
         <div class="row">
           <div class="col-md-12 col-lg-8">
             <div class="title-single-box">
-              <h1 class="title-single">We Do Great Design For Creative Folks</h1>
+              <h1 class="title-single">Principe de fonctionnement de l'agence IMMOBPORTO</h1>
             </div>
           </div>
           <div class="col-md-12 col-lg-4">
             <nav aria-label="breadcrumb" class="breadcrumb-box d-flex justify-content-lg-end">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item">
-                  <a href="#">Home</a>
+                  <a href="#">Acceuil</a>
                 </li>
                 <li class="breadcrumb-item active" aria-current="page">
-                  About
+                  A propos
                 </li>
               </ol>
             </nav>
@@ -42,9 +42,9 @@
             <div class="sinse-box">
               <h3 class="sinse-title">ImmobPorto
                 <span></span>
-                <br> Sinse 2017
+                <br> Depuis 2017
               </h3>
-              <p>Art & Creative</p>
+              <p>Satisfaire les clients et les propriétaires</p>
             </div>
           </div>
           <div class="col-md-12 section-t8 position-relative">
@@ -54,28 +54,32 @@
               </div>
               <div class="col-lg-2  d-none d-lg-block position-relative">
                 <div class="title-vertical d-flex justify-content-start">
-                  <span>ImmobPorto Exclusive Property</span>
+                  <span>ImmobPorto, nos Propriétés </span>
                 </div>
               </div>
               <div class="col-md-6 col-lg-5 section-md-t3">
                 <div class="title-box-d">
-                  <h3 class="title-d">Sed
-                    <span class="color-d">porttitor</span> lectus
-                    <br> nibh.
+                  <h3 class="title-d">Avec
+                    <span class="color-d">nous</span> soyez
+                    <br> à l'aise.
                   </h3>
                 </div>
                 <p class="color-text-a">
-                  Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget
-                  consectetur sed, convallis
-                  at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum
-                  ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit
-                  neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.
+                Vous recherchez une maison, un appartement (meublé ou non), un terrain ou un bureau/espace commercial à Cotonou
+                 ou partout au Bénin. Faîtes confiance à notre agence immobilière pour vous le trouver rapidement.
+                IMMOB-PORTO Immobilier met à votre disposition son réseau et son expérience dans l’immobilier et la construction au Bénin.
+
+               
+
                 </p>
                 <p class="color-text-a">
-                  Sed porttitor lectus nibh. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.
-                  Mauris blandit aliquet
-                  elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed,
-                  convallis at tellus.
+                Vous êtes résident ou de la diaspora ? 
+                Nos équipes vous accompagnent dans tous vos projets d’investissement, de rénovation et de construction de bien immobilier.
+                Vous avez en projet d’acheter un bien immobilier (parcelle, terrain, maison) ? Nous vous proposons d’effectuer pour vous la recherche de biens et de vous faire bénéficier de notre expertise.IMMOBPORTO Immobilier vous trouvera l’opportunité de rêve, celle qui vous fera économiser de l’argent et qui ne causera aucun soucis de type litige. Notre service juridique y veille, nous travaillons pour vous.
+
+Le service comprend l’étude de votre projet immobilier, recherche, visite, vérification des biens, détail des charges, négociation du prix d’achat.
+En cas de rénovation prévue, nous vous accompagnerons également dans la réalisation des travaux à effectuer
+
                 </p>
               </div>
             </div>
@@ -91,7 +95,7 @@
           <div class="col-md-12">
             <div class="title-wrap d-flex justify-content-between">
               <div class="title-box">
-                <h2 class="title-a">Meet Our Team</h2>
+                <h2 class="title-a">Rencontrer notre équipe</h2>
               </div>
             </div>
           </div>
@@ -106,21 +110,21 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="{{route('agent-single')}}" class="link-two">Margaret Sotillo
+                      <a href="{{route('agent-single')}}" class="link-two">SAIZONNOU Pricilia
                         <br> Escala</a>
                     </h3>
                   </div>
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                    Chers utilisateur, je suis à votre service. 
                   </p>
                   <div class="info-agents color-a">
                     <p>
-                      <strong>Phone: </strong> +54 356 945234
+                      <strong>Tél: </strong> +229 97294172
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
+                      <strong>Email: </strong> pricilia@gmail.com
                     </p>
                   </div>
                 </div>
@@ -162,21 +166,21 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="{{route('agent-single')}}" class="link-two">Stiven Spilver
+                      <a href="{{route('agent-single')}}" class="link-two">Christin TOUNDONOU
                         <br> Darw</a>
                     </h3>
                   </div>
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                  Chers utilisateur, je suis à votre service. 
                   </p>
                   <div class="info-agents color-a">
                     <p>
-                      <strong>Phone: </strong> +54 356 945234
+                      <strong>Tél: </strong> +229 61123580
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
+                      <strong>Email: </strong> christin@gmail.com
                     </p>
                   </div>
                 </div>
@@ -223,21 +227,21 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="{{route('agent-single')}}" class="link-two">Emma Toledo
+                      <a href="{{route('agent-single')}}" class="link-two">Charline Degbegni
                         <br> Cascada</a>
                     </h3>
                   </div>
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                  Chers utilisateur, je suis à votre service. 
                   </p>
                   <div class="info-agents color-a">
                     <p>
-                      <strong>Phone: </strong> +54 356 945234
+                      <strong>Tél: </strong> +229 96587412
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
+                      <strong>Email: </strong> charline@gmail.com
                     </p>
                   </div>
                 </div>

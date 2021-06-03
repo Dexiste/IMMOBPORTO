@@ -5,10 +5,10 @@
           <div class="col-md-12">
             <div class="title-wrap d-flex justify-content-between">
               <div class="title-box">
-                <h2 class="title-a">Best Agents</h2>
+                <h2 class="title-a">Meilleurs Agents</h2>
               </div>
               <div class="title-link">
-                <a href="agents-grid.html">All Agents
+                <a href="agents-grid.html">
                   <span class="bi bi-chevron-right"></span>
                 </a>
               </div>
@@ -32,14 +32,14 @@
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                    Chers utilisateur, je suis à votre service.
                   </p>
                   <div class="info-agents color-a">
                     <p>
-                      <strong>Phone: </strong> +54 356 945234
+                      <strong>Tél: </strong> +229 96235874
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
+                      <strong>Email: </strong> agents@gmail.com
                     </p>
                   </div>
                 </div>
@@ -88,14 +88,14 @@
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                    Chers utilisateur, je suis à votre service.
                   </p>
                   <div class="info-agents color-a">
                     <p>
-                      <strong>Phone: </strong> +54 356 945234
+                      <strong>Tél: </strong> +229 96235874
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
+                      <strong>Email: </strong> agents@gmail.com
                     </p>
                   </div>
                 </div>
@@ -144,14 +144,14 @@
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                    Chers utilisateur, je suis à votre service.
                   </p>
                   <div class="info-agents color-a">
                     <p>
-                      <strong>Phone: </strong> +54 356 945234
+                      <strong>Tél: </strong> +229 96235874
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
+                      <strong>Email: </strong> agents@gmail.com
                     </p>
                   </div>
                 </div>

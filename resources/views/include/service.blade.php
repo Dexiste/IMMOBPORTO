@@ -5,7 +5,7 @@
           <div class="col-md-12">
             <div class="title-wrap d-flex justify-content-between">
               <div class="title-box">
-                <h2 class="title-a">Our Services</h2>
+                <h2 class="title-a">Nos Services</h2>
               </div>
             </div>
           </div>
@@ -18,14 +18,13 @@
                   <span class="bi bi-cart"></span>
                 </div>
                 <div class="card-title-c align-self-center">
-                  <h2 class="title-c">Lifestyle</h2>
+                  <h2 class="title-c">Style de Vie</h2>
                 </div>
               </div>
               <div class="card-body-c">
                 <p class="content-c">
-                  Sed porttitor lectus nibh. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa,
-                  convallis a pellentesque
-                  nec, egestas non nisi.
+                Chercher un bon endroit pour vivre, c'est la meuilleur des choix. Nous sommes là pour vous rendre heureux, à l'aise 
+                et joyeux. IMMOBPORTO, le meilleur choix. 
                 </p>
               </div>
               <div class="card-footer-c">
@@ -42,14 +41,13 @@
                   <span class="bi bi-calendar4-week"></span>
                 </div>
                 <div class="card-title-c align-self-center">
-                  <h2 class="title-c">Loans</h2>
+                  <h2 class="title-c">Louer</h2>
                 </div>
               </div>
               <div class="card-body-c">
                 <p class="content-c">
-                  Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit. Mauris blandit
-                  aliquet elit, eget tincidunt
-                  nibh pulvinar a.
+                Vous recherchez une maison, un appartement (meublé ou non), un terrain ou un bureau/espace commercial à Cotonou
+                 ou partout au Bénin. 
                 </p>
               </div>
               <div class="card-footer-c">
@@ -71,9 +69,8 @@
               </div>
               <div class="card-body-c">
                 <p class="content-c">
-                  Sed porttitor lectus nibh. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa,
-                  convallis a pellentesque
-                  nec, egestas non nisi.
+              Faîtes confiance à notre agence immobilière pour vous le trouver rapidement.
+                IMMOB-PORTO Immobilier met à votre disposition son réseau et son expérience dans l’immobilier et la construction au Bénin.
                 </p>
               </div>
               <div class="card-footer-c">
@@ -94,10 +91,10 @@
           <div class="col-md-12">
             <div class="title-wrap d-flex justify-content-between">
               <div class="title-box">
-                <h2 class="title-a">Latest Properties</h2>
+                <h2 class="title-a">Recentes Propriétés</h2>
               </div>
               <div class="title-link">
-                <a href="">All Property
+                <a href="">
                   <span class="bi bi-chevron-right"></span>
                 </a>
               </div>
@@ -117,15 +114,15 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="">206 Mount
-                          <br /> Olive Road Two</a>
+                        <a href="">appartement
+                          <br /> Avec jardin</a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">A louer | 120.000f</span>
                       </div>
-                      <a href="#" class="link-a">Click here to view
+                      <a href="#" class="link-a">Cliquer ici pour voir
                         <span class="bi bi-chevron-right"></span>
                       </a>
                     </div>
@@ -165,15 +162,15 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="">157 West
-                          <br /> Central Park</a>
+                        <a href="">Immeuble
+                          <br /> Avec piscine</a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">A vendre | 17.000.000f</span>
                       </div>
-                      <a href="" class="link-a">Click here to view
+                      <a href="" class="link-a">Cliquer ici pour voir
                         <span class="bi bi-chevron-right"></span>
                       </a>
                     </div>
@@ -213,15 +210,15 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="">245 Azabu
-                          <br /> Nishi Park let</a>
+                        <a href="">Immeuble propre
+                          <br /> Sise à Djegan-Kpevi</a>
                       </h2>
                     </div>
                     <div class="card-body-a">
                       <div class="price-box d-flex">
-                        <span class="price-a">rent | $ 12.000</span>
+                        <span class="price-a">A louer | 130.000f par mois</span>
                       </div>
-                      <a href="" class="link-a">Click here to view
+                      <a href="" class="link-a">Cliquer ici pour voir
                         <span class="bi bi-chevron-right"></span>
                       </a>
                     </div>
@@ -269,7 +266,7 @@
                       <div class="price-box d-flex">
                         <span class="price-a">rent | $ 12.000</span>
                       </div>
-                      <a href="" class="link-a">Click here to view
+                      <a href="" class="link-a">Cliquer ici pour voir
                         <span class="bi bi-chevron-right"></span>
                       </a>
                     </div>
